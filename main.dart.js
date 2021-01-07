@@ -47857,7 +47857,7 @@ L.XY.prototype={
 $2:function(a,b){return a+b},
 $S:316}
 L.XZ.prototype={
-$0:function(){C.aU.CG(window,"https://api.whatsapp.com/send?1=pt_BR&phone=5571994071899&text=Ol\xe1,%20Santo%20Chope!%0aMeu%20Pedido%20\xe9:%0a"+$.pA+"Total:%20R$"+C.e.ad(X.a3Z(),2),"Pedido")},
+$0:function(){C.aU.CG(window,"https://api.whatsapp.com/send?1=pt_BR&phone=5571994071899&text=Ol\xe1,%20Santo%20Chope!%0aGostaria%20de%20fazer%20um%20pedido:%0a"+$.pA+"Total:%20R$"+C.e.ad(X.a3Z(),2),"Pedido")},
 $S:0}
 E.yu.prototype={
 F:function(a,b){return B.Oo(new E.LU(),$.Ke.length,null,!0)}}
