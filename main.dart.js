@@ -47698,7 +47698,7 @@ T.wm.prototype={
 F:function(a,b){var s=null,r=$.ea,q=r*5,p=K.a3y(new P.b9(20,20)),o=F.Jl(C.j,2),n=$.bn,m=t.t
 return M.bM(s,T.fj(H.c([M.bM(s,T.fj(H.c([L.bo("Al\xe9m de fazer o delivery de cervejas artesanais e tradicionais geladas em Salvador, n\xf3s tamb\xe9m ajudamos a levar chopp para o seu evento. Com barris de 30 e 50 litros, realizamos o aluguel e montagem da chopeira, servindo um chope bem gelado em sua festa! Fale conosco atrav\xe9s do link.",s,A.c_(s,s,C.j,s,s,s,s,s,"Coiny",s,s,n>r*1.4?r*3:n*3,s,C.h1,s,s,!0,2,s,s,s,s,s),C.ik),T.hS(H.c([new T.q8(1,C.oI,T.bj(s,s,s),s),E.a1b(C.iC,L.qm(C.vf,s),!1,new T.Iw())],m),C.K,C.cJ,C.M)],m),C.K,C.aJ,C.M),s,s,new S.cF(C.k,s,o,p,s,s,C.O),s,s,new V.as(r,r,r,r),s),T.kd(T.bj(s,s,s),1)],m),C.K,C.pp,C.M),s,s,s,s,s,new V.as(q,q,q,q),s)}}
 T.Iw.prototype={
-$0:function(){C.aU.CG(window,"https://api.whatsapp.com/send?1=pt_BR&phone=5571986491899&text=Ol\xe1,%20Santo%20Chope!%0aGostaria%20de%20falar%20sobre%20eventos%20com%20voc\xeas.","Conversa")},
+$0:function(){C.aU.CG(window,"https://api.whatsapp.com/send?1=pt_BR&phone=5571994071899&text=Ol\xe1,%20Santo%20Chope!%0aGostaria%20de%20falar%20sobre%20eventos%20com%20voc\xeas.","Conversa")},
 $C:"$0",
 $R:0,
 $S:0}
